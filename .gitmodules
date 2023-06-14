@@ -1,0 +1,3 @@
+[submodule "spindraw"]
+	path = spindraw
+	url = git@github.com:skfw-net/spindraw-js.git

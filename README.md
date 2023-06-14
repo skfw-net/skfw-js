@@ -1,1 +1,1 @@
-# skfw.js
+# SKFW-JS (Web Framework API written in JavaScript)
